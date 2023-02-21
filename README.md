@@ -6,7 +6,9 @@ This project uses Kubernetes and Minikube to deploy a simple web application and
 Before running this project, ensure you have the following installed:
 
 Docker
+
 Kubectl
+
 Minikube
 
 # Getting Started
